@@ -4,7 +4,6 @@ from flask import Flask, request, render_template, send_file
 #from azure.storage.queue import QueueServiceClient, QueueClient, QueueMessage
 #from queue import Queue
 
-
 app = Flask(__name__)
 #q = Queue(maxsize = 0)
 
